@@ -1,0 +1,17 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab 1 Part 2 Answers
+1. Full name: Nick Cory, GitHub username: nickcory
+
+2. Most revent commit added the hw1.rmd and hw1.html files to repo. Commit ID: 3201d023500b817987f34a550da3a624bda9e65a
+
+3. Yes, was able to knit partner file.
+
+4. No issues with getting git setup. 
